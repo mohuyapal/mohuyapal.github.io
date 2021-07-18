@@ -1,12 +1,12 @@
 ### Site Settings ###
 title               : mohuyapal
 description         : >-
-                      I turn coffee :coffee: into code,
+                      I turn green tea :coffee: into code,
                       use tabs over spaces
-                      and never broke production.
+                      and never give up.
 baseurl             : "/"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : mohuyapal/mohuyapal.github.io    # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
-remote_theme        : YoussefRaafatNasry/portfolYOU
+#remote_theme        : YoussefRaafatNasry/portfolYOU
 
 
 ### Plugins ###
