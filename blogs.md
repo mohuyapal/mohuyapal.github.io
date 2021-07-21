@@ -1,6 +1,6 @@
 ---
 layout: page
-title: blog
+title: Blog
 tagline: Blog
 permalink: /blogs.html
 ref: blog
