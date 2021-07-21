@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Blog
+title: 
 tagline: Blog
-permalink: /blog.html
-ref: blog
+permalink: /index.html
 order: 2
 ---
 
