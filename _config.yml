@@ -20,6 +20,8 @@ author: mohuya
 image: /thumbnail-jumbo.png
 twitter:
   username: MohuyaPal
+linkedin:
+  username: mohuyapal
 
 plugins:
   - jekyll-target-blank
