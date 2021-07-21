@@ -19,7 +19,7 @@ theme: # leave it empty
 author: mohuya
 image: /thumbnail-jumbo.png
 twitter:
-  username: mohuya
+  username: MohuyaPal
 
 plugins:
   - jekyll-target-blank
