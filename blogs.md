@@ -2,7 +2,7 @@
 layout: page
 title: blog
 tagline: Blog
-permalink: /blog.html
+permalink: /blogs.html
 ref: blog
 order: 2
 ---
