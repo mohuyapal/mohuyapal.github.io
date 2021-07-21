@@ -3,6 +3,6 @@ layout: page
 title: Blog
 tagline: Blog
 permalink: /blogs.html
-ref: blog
+ref: Blog
 order: 2
 ---
