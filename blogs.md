@@ -7,7 +7,8 @@ ref: Blog
 order: 2
 ---
 
-<script>
+
+<div>
 <ul class="post-list">
     {% for post in site.posts %}
       <li>
@@ -24,4 +25,4 @@ order: 2
       </li>
     {% endfor %}
   </ul>
-</script>
+</div>
