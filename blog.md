@@ -1,5 +1,5 @@
 ---
-layout: pages
+layout: page
 title: Blog
 tagline: Blog
 permalink: /blogs.html
