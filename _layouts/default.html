@@ -56,8 +56,8 @@
         {% include site-header.html %}
         
         {% if page.layout == 'home' %}
-        <!-- {% assign page-tagline = site.description | default: site.github.project_tagline | escape %} -->
-        {% assign page-tagline = site.tagline | default: site.github.project_tagline | escape %}
+        {% assign page-tagline = site.description | default: site.github.project_tagline | escape %}
+        <!--{% assign page-tagline = site.tagline | default: site.github.project_tagline | escape %} -->
         {% endif %}
         {% if page.layout == 'page' %}
         {% assign page-tagline = page.tagline | escape %}
@@ -73,8 +73,8 @@
        <a href="https://raw.githubusercontent.com/cncf/artwork/master/projects/k3s/horizontal/white/k3s-horizontal-white.svg"> </a>
 
             </marquee>
-            <h1 class="project-name">{{ page-title }}</h1>
-            <h2 class="project-tagline">{{ page-tagline }}</h2>
+           <!-- <h1 class="project-name">{{ page-title }}</h1>
+            <h2 class="project-tagline">{{ page-tagline }}</h2> -->
            
             {% if page.layout == 'home' and site.github.is_project_page %}
             <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
